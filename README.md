@@ -31,3 +31,5 @@ The analysis is structured logically within the SQL script:
 
 ## Dataset
 Raw dataset included in this repository (`global_superstore_orders.csv`).
+## Full Project Report
+For a deep dive into the step-by-step methodology, window function logic, and comprehensive business insights, please view the [Full Case Study Report](Global_Superstore_Case_Study.pdf).
